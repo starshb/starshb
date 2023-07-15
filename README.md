@@ -32,6 +32,10 @@
 
 <br>
 <br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Korean+App+Developer)](https://git.io/typing-svg)
+
 <br> 
 <br> 
    
