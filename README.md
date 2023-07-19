@@ -34,7 +34,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Korean+App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F8BBD0&width=435&lines=Welcome+to+my+profile;Korean+App+Developer)](https://git.io/typing-svg)
 
 <br> 
 <br> 
